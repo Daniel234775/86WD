@@ -9,6 +9,8 @@ confirm & wait
 credentials -> wifi
 select the ssid attacked and view all info
 
+
+
 **auth pass attack:**
 1. select target
 2. select evil twin attack
@@ -21,8 +23,10 @@ select the ssid attacked and view all info
 9. voila!
 
 
+
 WIP:
-1. 5GHz mode
-2. Bluetooth mode
-3. nRF modules [x3 or x5]
-4. 
+1. 3 buttons -> 5 buttons
+2. 5GHz mode
+3. Bluetooth mode
+4. nRF modules [x3 or x5]
+5. 
